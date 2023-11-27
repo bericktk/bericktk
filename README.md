@@ -7,5 +7,6 @@
 
 <div>
   <a href="https://github.com/bericktk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bericktk&show_icons=true&theme=transparent"
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bericktk&show_icons=true&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5"/>
 </div>
