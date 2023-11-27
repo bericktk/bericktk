@@ -7,8 +7,8 @@
 
 <div style="display: inline_block">
   <a href="https://github.com/bericktk">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=bericktk&show_icons=true&theme=transparent"/>
-  <img height="140emm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bericktk&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bericktk&show_icons=true&theme=transparent"/>
+  <img height="160emm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bericktk&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact"/>
 </div>
 
 <div style="display: inline_block"><br>
