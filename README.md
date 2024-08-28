@@ -1,7 +1,7 @@
 👋 Olá, eu sou Bruno Erick,
 
 - 👀 Estou interessado em aprender sobre o desenvolvimento Full Stack;
-- 🌱 Atualmente estou estudando JS, ReactJS e Node.js, focando em me tornar um profissional;
+- 🌱 Atualmente estou estudando JS, Python;
 - 🤓 Estou procurando colaborar com outros que possuam interesse na área;
 - 📫 Entre em contato via e-mail br.ericktk@gmail.com
 
