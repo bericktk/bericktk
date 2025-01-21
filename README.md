@@ -1,9 +1,9 @@
 👋 Olá, eu sou Bruno Erick,
 
-- 👀 Estou interessado em aprender sobre o desenvolvimento Full Stack;
-- 🌱 Atualmente estou estudando JS, Python;
+- 👀 Estou interessado em aprender sobre o desenvolvimento Back-End;
+- 🌱 Atualmente estou estudando JAVA;
 - 🤓 Estou procurando colaborar com outros que possuam interesse na área;
-- 📫 Entre em contato via e-mail br.ericktk@gmail.com
+- 📫 Entre em contato via e-mail br.ericktk@gmail.com;
 
 <div style="display: inline_block;">
   <a href="https://github.com/bericktk">
