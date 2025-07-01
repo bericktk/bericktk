@@ -4,7 +4,7 @@ Desenvolvedor **Full Stack** em transição de carreira, apaixonado por tecnolog
 
 - 👨‍💻 Possuo conhecimento nas linguagens **JavaScript, Python, Java, PHP, ReactJS, Node.js, WordPress e Bootstrap**;
 - 🚀 Busco integrar equipes de tecnologia para contribuir com entregas de impacto e seguir evoluindo como Full Stack Developer;
-- 🌱 Atualmente estudando Java e aprimorando habilidades em frameworks como Django, Laravel e Spring Boot;
+- 🌱 Atualmente estudando React com foco em Full Stack com NodeJS;
 - 🤝 Aberto a colaborar com outros devs e participar de projetos desafiadores;
 - 🎮 Me interesso também por jogos competitivos como **CS, Valorant e LoL**;
 - 📫 Entre em contato: br.ericktk@gmail.com | [LinkedIn](https://www.linkedin.com/in/brunoerick-desenvolvedor-back-end/)
