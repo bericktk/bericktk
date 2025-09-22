@@ -2,7 +2,7 @@
 
 Desenvolvedor **Full Stack** em transição de carreira, apaixonado por tecnologia, automação e desenvolvimento web. Tenho experiência prática em projetos que unem eficiência operacional e inovação, especialmente nos contextos administrativo e educacional.
 
-- 👨‍💻 Possuo conhecimento nas linguagens **JavaScript, Python, Java, PHP, ReactJS, Node.js, WordPress e Bootstrap**;
+- 👨‍💻 Possuo conhecimento nas linguagens **JavaScript, Python, Java e PHP**;
 - 🚀 Busco integrar equipes de tecnologia para contribuir com entregas de impacto e seguir evoluindo como Full Stack Developer;
 - 🌱 Atualmente estudando React com foco em Full Stack com NodeJS;
 - 🤝 Aberto a colaborar com outros devs e participar de projetos desafiadores;
