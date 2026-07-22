@@ -11,10 +11,4 @@ Desenvolvedor Full Stack, Instrutor de Desenvolvimento de Sistemas, apaixonado p
 ![](https://github-readme-stats.shion.dev/api?username=bericktk&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=bericktk&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bericktk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bericktk&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
