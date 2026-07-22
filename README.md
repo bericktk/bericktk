@@ -1,30 +1,21 @@
-# 👋 Olá, eu sou Bruno Erick
+# 💫 Olá, sou Bruno Erick:
+Desenvolvedor Full Stack em transição de carreira, apaixonado por tecnologia, automação e desenvolvimento web. Tenho experiência prática em projetos que unem eficiência operacional e inovação, especialmente nos contextos administrativo e educacional.<br><br>👨‍💻 Possuo conhecimento nas linguagens JavaScript, Python, Java e PHP;<br>🚀 Busco integrar equipes de tecnologia para contribuir com entregas de impacto e seguir evoluindo como Full Stack Developer;<br>🌱 Atualmente estudando React com foco em Full Stack com NodeJS;<br>🤝 Aberto a colaborar com outros devs e participar de projetos desafiadores;<br>🎮 Me interesso também por jogos competitivos como CS, Valorant e LoL;<br>📫 Entre em contato: br.ericktk@gmail.com | LinkedIn
 
-Desenvolvedor **Full Stack** em transição de carreira, apaixonado por tecnologia, automação e desenvolvimento web. Tenho experiência prática em projetos que unem eficiência operacional e inovação, especialmente nos contextos administrativo e educacional.
 
-- 👨‍💻 Possuo conhecimento nas linguagens **JavaScript, Python, Java e PHP**;
-- 🚀 Busco integrar equipes de tecnologia para contribuir com entregas de impacto e seguir evoluindo como Full Stack Developer;
-- 🌱 Atualmente estudando React com foco em Full Stack com NodeJS;
-- 🤝 Aberto a colaborar com outros devs e participar de projetos desafiadores;
-- 🎮 Me interesso também por jogos competitivos como **CS, Valorant e LoL**;
-- 📫 Entre em contato: br.ericktk@gmail.com | [LinkedIn](https://www.linkedin.com/in/brunoerick-desenvolvedor-back-end/)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/brunoerick-desenvolvedor-back-end/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/bericktk) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bericklol) 
 
-<div style="display: inline_block;">
-  <a href="https://github.com/bericktk">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=bericktk&show_icons=true&theme=transparent"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bericktk&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact"/>
-  </a>
-</div>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=bericktk&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=bericktk&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=bericktk&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Be-Py" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="Be-JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img align="center" alt="Be-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img align="center" alt="Be-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="Be-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="Be-PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img align="center" alt="Be-BS" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img align="center" alt="Be-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img align="center" alt="Be-Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img align="center" alt="Be-WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bericktk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=bericktk&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
